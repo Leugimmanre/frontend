@@ -8,3 +8,4 @@ export default function Home() {
     <div className="lg:w-3/4 p-7 mx-auto bg-slate-100">Home</div>
   );
 }
+
